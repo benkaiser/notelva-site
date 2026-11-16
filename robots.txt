@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notelva.com.au/sitemap.xml
